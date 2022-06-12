@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @stekatag
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning C#, HTML, CSS, JS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning .NET, HTML, CSS, JS
+- 📫 You can reach me on stefangogov@proton.me
 
 <!---
 stekatag/stekatag is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
