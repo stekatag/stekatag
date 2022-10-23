@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 - 👋 Hi, I’m @stekatag
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning .NET, HTML, CSS, JS
