@@ -11,7 +11,7 @@
  <br>
 
  <div>
-  <a href="https://github.com/VictorLira-DEV">
+  <a href="https://github.com/stekatag">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=stekatag&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stekatag&layout=compact&theme=aura"/>
 </div>
