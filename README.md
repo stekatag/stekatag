@@ -12,8 +12,8 @@
 
  <div>
   <a href="https://github.com/stekatag">
-  <img height="150em" src="https://stekatag-readme-stats.netlify.app/api?username=stekatag&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://stekatag-readme-stats.netlify.app/api/top-langs/?username=stekatag&layout=compact&theme=aura"/>
+  <img height="150em" src="https://readme-stats.clckblog.space/api?username=stekatag&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://readme-stats.clckblog.space/api/top-langs/?username=stekatag&layout=compact&theme=aura"/>
 </div>
 
 <!---
